@@ -1,4 +1,4 @@
-# networking
+# Computer Networking
  A full-fledged network for an organization with multiple subnets
 Used Components:
 1. DHCP Server
